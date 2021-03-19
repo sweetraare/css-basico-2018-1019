@@ -7,22 +7,23 @@
     important -> especificidad -> cascada
 */
 
-#parrafo{
-    color: blueviolet;
+#parrafo {
+  color: blueviolet;
 }
 
-.parrafo{
-    color: red;
+.parrafo {
+  color: red;
 }
 
-a{
-    color: inherit;
+a {
+  color: inherit;
 }
 
-.parrafo-2{
-    color: black;
+.parrafo-2 {
+  color: black;
 }
 
-p{
-    color: green;
+p {
+  color: green;
 }
+
